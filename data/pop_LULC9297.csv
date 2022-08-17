@@ -1,0 +1,368 @@
+﻿name,state,Class_name,Shape_Area
+South West Garo Hills,Meghalaya,NoChange,260878148.8
+South West Garo Hills,Meghalaya,Other,603066398.7
+West District,Sikkim,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",537212.6354
+West District,Sikkim,NoChange,593380026
+West District,Sikkim,Other,936925838.3
+South District,Sikkim,"Grassland,Scrub,orShrub->MostlyDeciduousForest",316285.9217
+South District,Sikkim,NoChange,420288827.7
+South District,Sikkim,Other,513422940.1
+East District,Sikkim,"Grassland,Scrub,orShrub->MostlyDeciduousForest",107275.9491
+East District,Sikkim,NoChange,435261020.9
+East District,Sikkim,Other,777801230.3
+North District,Sikkim,NoChange,1703628320
+North District,Sikkim,Other,3756145495
+South Tripura,Tripura,NoChange,397874737.1
+South Tripura,Tripura,Other,1341136198
+Gomati,Tripura,NoChange,501531922.2
+Gomati,Tripura,Other,1486433269
+Sepahijala,Tripura,NoChange,287223165
+Sepahijala,Tripura,Other,950491723.1
+Saiha,Mizoram,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",87793.41457
+Saiha,Mizoram,NoChange,730511089.6
+Saiha,Mizoram,Other,1068091883
+Lawngtlai,Mizoram,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",148038.2236
+Lawngtlai,Mizoram,NoChange,820444658.7
+Lawngtlai,Mizoram,Other,2026430473
+Lunglei,Mizoram,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",103793.0228
+Lunglei,Mizoram,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",281435.0213
+Lunglei,Mizoram,MostlyCropland->ArtificialSurfaceorUrbanArea,103790.8892
+Lunglei,Mizoram,NoChange,1383693908
+Lunglei,Mizoram,Other,2895976891
+Hnahthial,Mizoram,NoChange,347816710.8
+Hnahthial,Mizoram,Other,743561535.7
+Champhai,Mizoram,NoChange,881049336.7
+Champhai,Mizoram,Other,1898472129
+Khawzawl,Mizoram,NoChange,487928182.7
+Khawzawl,Mizoram,Other,849088941.7
+Serchhip,Mizoram,NoChange,581818914
+Serchhip,Mizoram,Other,1090088478
+Khowai,Tripura,NoChange,361127525.1
+Khowai,Tripura,Other,905998842.1
+West Tripura,Tripura,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",104525.8761
+West Tripura,Tripura,MostlyCropland->ArtificialSurfaceorUrbanArea,313588.7912
+West Tripura,Tripura,NoChange,361106083.1
+West Tripura,Tripura,Other,780505931.8
+Dhalai,Tripura,NoChange,747862666.6
+Dhalai,Tripura,Other,1962975642
+Mamit,Mizoram,NoChange,1113520131
+Mamit,Mizoram,Other,2546772244
+North Tripura,Tripura,NoChange,417116887.5
+North Tripura,Tripura,Other,1207552926
+Unakoti,Tripura,NoChange,219784532.4
+Unakoti,Tripura,Other,607146057.8
+Aizawl,Mizoram,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",208893.2765
+Aizawl,Mizoram,MostlyCropland->ArtificialSurfaceorUrbanArea,104436.6041
+Aizawl,Mizoram,NoChange,972861466.2
+Aizawl,Mizoram,Other,1491169006
+Saitual,Mizoram,NoChange,425802982.3
+Saitual,Mizoram,Other,858203083.4
+Kolasib,Mizoram,NoChange,717602431.4
+Kolasib,Mizoram,Other,1209373728
+Pherzawl,Manipur,NoChange,1325469545
+Pherzawl,Manipur,Other,1412501180
+East Jaintia Hills,Meghalaya,NoChange,1086224164
+East Jaintia Hills,Meghalaya,Other,1380477565
+Karimganj,Assam,NoChange,1017005815
+Karimganj,Assam,Other,1188020182
+Hailakandi,Assam,NoChange,759310314.8
+Hailakandi,Assam,Other,853125613.2
+Cachar,Assam,NoChange,2827245697
+Cachar,Assam,Other,1785822848
+Jiribam,Manipur,NoChange,112160176.7
+Jiribam,Manipur,Other,99835166.37
+Kakching,Manipur,"Grassland,Scrub,orShrub->MostlyDeciduousForest",105031.1429
+Kakching,Manipur,NoChange,110048579.9
+Kakching,Manipur,Other,203973734.8
+Churachandpur,Manipur,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",105117.0135
+Churachandpur,Manipur,NoChange,1174373338
+Churachandpur,Manipur,Other,1793701410
+Tengnoupal,Manipur,NoChange,421392863.9
+Tengnoupal,Manipur,Other,954323272.4
+Chandel,Manipur,"MostlyDeciduousForest->Grassland,Scrub,orShrub",522916.4302
+Chandel,Manipur,MostlyDeciduousForest->MostlyCropland,912735.7929
+Chandel,Manipur,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",209233.5122
+Chandel,Manipur,NoChange,686160077.7
+Chandel,Manipur,Other,1852339235
+Imphal West,Manipur,NoChange,272459087.2
+Imphal West,Manipur,Other,306990255.1
+Bishnupur,Manipur,MostlyCropland->ArtificialSurfaceorUrbanArea,105172.9515
+Bishnupur,Manipur,NoChange,295659342
+Bishnupur,Manipur,Other,266788566.4
+Noney,Manipur,NoChange,709402090.3
+Noney,Manipur,Other,662975172.8
+Imphal East,Manipur,MostlyCropland->ArtificialSurfaceorUrbanArea,526672.6589
+Imphal East,Manipur,NoChange,197994338
+Imphal East,Manipur,Other,283564749.7
+Thoubal,Manipur,NoChange,187744424.9
+Thoubal,Manipur,Other,266688262.2
+Kamjong,Manipur,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",122649.6319
+Kamjong,Manipur,NoChange,973956687.1
+Kamjong,Manipur,Other,1817703763
+Ukhrul,Manipur,"MostlyDeciduousForest->Grassland,Scrub,orShrub",316558.0221
+Ukhrul,Manipur,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",1883617.357
+Ukhrul,Manipur,NoChange,1290242304
+Ukhrul,Manipur,Other,1353454470
+Kangpokpi,Manipur,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",105337.3642
+Kangpokpi,Manipur,NoChange,1081645449
+Kangpokpi,Manipur,Other,1166466526
+Tamenglong,Manipur,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",316721.3867
+Tamenglong,Manipur,NoChange,1869081998
+Tamenglong,Manipur,Other,1852889097
+East Garo Hills,Meghalaya,NoChange,659485704.9
+East Garo Hills,Meghalaya,Other,1638652662
+West Garo Hills,Meghalaya,NoChange,996139586.4
+West Garo Hills,Meghalaya,Other,2432680547
+South Garo Hills,Meghalaya,NoChange,787306827.9
+South Garo Hills,Meghalaya,Other,1533601523
+Dhubri,Assam,NoChange,763608797.2
+Dhubri,Assam,Other,1130992783
+South Salmara Mancachar,Assam,NoChange,510036615.6
+South Salmara Mancachar,Assam,Other,338343984.8
+North Garo Hills,Meghalaya,NoChange,391506757.4
+North Garo Hills,Meghalaya,Other,789007375.6
+Goalpara,Assam,NoChange,1492770414
+Goalpara,Assam,Other,906831355.6
+West Khasi Hills,Meghalaya,NoChange,1472858827
+West Khasi Hills,Meghalaya,Other,3376998777
+South West Khasi Hills,Meghalaya,NoChange,614177364.7
+South West Khasi Hills,Meghalaya,Other,962943319.3
+Kamrup,Assam,"Grassland,Scrub,orShrub->MostlyDeciduousForest",425055.592
+Kamrup,Assam,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",622502.4264
+Kamrup,Assam,NoChange,1805430194
+Kamrup,Assam,Other,2080708842
+Kokrajhar,Assam,NoChange,2494336126
+Kokrajhar,Assam,Other,1457426256
+Chirang,Assam,NoChange,1665216284
+Chirang,Assam,Other,776681418
+Bongaigaon,Assam,NoChange,641885230.3
+Bongaigaon,Assam,Other,767596565
+Barpeta,Assam,NoChange,1263271282
+Barpeta,Assam,Other,1541980654
+Barpeta,Assam,SurfaceWater->ArtificialSurfaceorUrbanArea,106733.6198
+Nalbari,Assam,NoChange,759922688.1
+Nalbari,Assam,Other,556023314.8
+Baksa,Assam,NoChange,2089672735
+Baksa,Assam,Other,1012560128
+East Khasi Hills,Meghalaya,MostlyCropland->ArtificialSurfaceorUrbanArea,106019.629
+East Khasi Hills,Meghalaya,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",529565.6669
+East Khasi Hills,Meghalaya,NoChange,1295618524
+East Khasi Hills,Meghalaya,Other,2145306149
+West Jaintia Hills,Meghalaya,NoChange,719941043.2
+West Jaintia Hills,Meghalaya,Other,1494667131
+Ri Bhoi,Meghalaya,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",15033.56141
+Ri Bhoi,Meghalaya,NoChange,1035077122
+Ri Bhoi,Meghalaya,Other,1970494574
+Kamrup Metro,Assam,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",630408.2221
+Kamrup Metro,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,639001.9728
+Kamrup Metro,Assam,NoChange,484714029.3
+Kamrup Metro,Assam,Other,684109676.3
+Kamrup Metro,Assam,SurfaceWater->ArtificialSurfaceorUrbanArea,80101.19547
+Dima Hasao,Assam,NoChange,2146787568
+Dima Hasao,Assam,Other,3861480980
+West Karbi Anglong,Assam,NoChange,1545959935
+West Karbi Anglong,Assam,Other,2263879857
+Hojai,Assam,NoChange,1230068493
+Hojai,Assam,Other,578732977.9
+Karbi Anglong,Assam,NoChange,4418571233
+Karbi Anglong,Assam,Other,4710934005
+Darrang,Assam,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",8829.589917
+Darrang,Assam,NoChange,1028336607
+Darrang,Assam,Other,998636253.7
+Darrang,Assam,SurfaceWater->ArtificialSurfaceorUrbanArea,26463.8372
+Udalguri,Assam,NoChange,1770046415
+Udalguri,Assam,Other,720726667
+Marigaon,Assam,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",425983.598
+Marigaon,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,638936.0743
+Marigaon,Assam,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,319464.3265
+Marigaon,Assam,NoChange,799967602.2
+Marigaon,Assam,Other,1142068342
+Nagaon,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,106697.7193
+Nagaon,Assam,NoChange,1363763320
+Nagaon,Assam,Other,1840052639
+Sonitpur,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,2142927.428
+Sonitpur,Assam,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,107265.0467
+Sonitpur,Assam,NoChange,2649716065
+Sonitpur,Assam,Other,1684416590
+Biswanath,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,107149.1198
+Biswanath,Assam,NoChange,1506242587
+Biswanath,Assam,Other,744789866.3
+West Kameng,Arunachal Pradesh,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",1073325.991
+West Kameng,Arunachal Pradesh,"MostlyDeciduousForest->Grassland,Scrub,orShrub",215232.272
+West Kameng,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",2367299.251
+West Kameng,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,537705.1623
+West Kameng,Arunachal Pradesh,NoChange,3060806134
+West Kameng,Arunachal Pradesh,Other,3197278463
+Kurung Kumey,Arunachal Pradesh,NoChange,2166978345
+Kurung Kumey,Arunachal Pradesh,Other,3537147556
+East Kameng,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",105506.5324
+East Kameng,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,62854.39349
+East Kameng,Arunachal Pradesh,NoChange,2951806755
+East Kameng,Arunachal Pradesh,Other,2643939301
+Pakke Kessang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",970075.5334
+Pakke Kessang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,259882.0457
+Pakke Kessang,Arunachal Pradesh,NoChange,1609326751
+Pakke Kessang,Arunachal Pradesh,Other,807730566.6
+Tawang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",843578.7748
+Tawang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,2803452.658
+Tawang,Arunachal Pradesh,NoChange,720784237.2
+Tawang,Arunachal Pradesh,Other,2382660646
+Kohima,Nagaland,MostlyCropland->ArtificialSurfaceorUrbanArea,106091.1827
+Kohima,Nagaland,NoChange,646396053.4
+Kohima,Nagaland,Other,993976421.1
+Dimapur,Nagaland,MostlyCropland->ArtificialSurfaceorUrbanArea,425205.6912
+Dimapur,Nagaland,NoChange,466509054.1
+Dimapur,Nagaland,Other,620386007.2
+Peren,Nagaland,NoChange,915759369.3
+Peren,Nagaland,Other,1206238938
+Senapati,Manipur,"Grassland,Scrub,orShrub->MostlyDeciduousForest",211916.3737
+Senapati,Manipur,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",211803.7897
+Senapati,Manipur,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",123216.6156
+Senapati,Manipur,NoChange,1046507763
+Senapati,Manipur,Other,1099817977
+Phek,Nagaland,"MostlyDeciduousForest->Grassland,Scrub,orShrub",1059993.324
+Phek,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",11648794.78
+Phek,Nagaland,MostlyNeedleleaf/EvergreenForest->MostlyCropland,847860.0632
+Phek,Nagaland,NoChange,977549558.6
+Phek,Nagaland,Other,1337175826
+Kiphire,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",4731670.118
+Kiphire,Nagaland,NoChange,523807422.3
+Kiphire,Nagaland,Other,870806283.7
+Zunheboto,Nagaland,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,106398.0534
+Zunheboto,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",2010989.527
+Zunheboto,Nagaland,NoChange,850491399
+Zunheboto,Nagaland,Other,1105400278
+Golaghat,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,107044.3249
+Golaghat,Assam,NoChange,2396357385
+Golaghat,Assam,Other,1709450393
+Wokha,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",1384075.593
+Wokha,Nagaland,NoChange,1001439650
+Wokha,Nagaland,Other,977634254.7
+Tuensang,Nagaland,"MostlyDeciduousForest->Grassland,Scrub,orShrub",425783.8688
+Tuensang,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",4854752.993
+Tuensang,Nagaland,MostlyNeedleleaf/EvergreenForest->MostlyCropland,106544.7169
+Tuensang,Nagaland,NoChange,898353690.7
+Tuensang,Nagaland,Other,1238127250
+Mokokchung,Nagaland,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",106687.5186
+Mokokchung,Nagaland,NoChange,985425712.6
+Mokokchung,Nagaland,Other,1024576588
+Noklak,Nagaland,NoChange,283377380.4
+Noklak,Nagaland,Other,223868076.4
+Jorhat,Assam,NoChange,1369805098
+Jorhat,Assam,Other,954610410.5
+Mon,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",10586442.19
+Mon,Nagaland,MostlyNeedleleaf/EvergreenForest->MostlyCropland,427830.725
+Mon,Nagaland,NoChange,1270439818
+Mon,Nagaland,Other,1461729190
+Longleng,Nagaland,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",748446.1259
+Longleng,Nagaland,NoChange,322662678.8
+Longleng,Nagaland,Other,411475705.9
+Longding,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",2144777.551
+Longding,Arunachal Pradesh,NoChange,575859147.4
+Longding,Arunachal Pradesh,Other,578709888.7
+Papum Pare,Arunachal Pradesh,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",2042541.304
+Papum Pare,Arunachal Pradesh,MostlyDeciduousForest->ArtificialSurfaceorUrbanArea,107517.9275
+Papum Pare,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,107515.2991
+Papum Pare,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",107693.0083
+Papum Pare,Arunachal Pradesh,NoChange,2948543721
+Papum Pare,Arunachal Pradesh,Other,1428490822
+Lakhimpur,Assam,NoChange,2238215172
+Lakhimpur,Assam,Other,1469538463
+Lakhimpur,Assam,SurfaceWater->Barearea,938764.6202
+Lakhimpur,Assam,"SurfaceWater->Grassland,Scrub,orShrub",107480.4808
+Majuli,Assam,"Barearea->Grassland,Scrub,orShrub",107199.0899
+Majuli,Assam,NoChange,861811549.7
+Majuli,Assam,Other,694607404.7
+Majuli,Assam,SurfaceWater->Barearea,28514.22872
+Lower Subansiri,Arunachal Pradesh,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",107679.4954
+Lower Subansiri,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",3557165.982
+Lower Subansiri,Arunachal Pradesh,NoChange,1273626402
+Lower Subansiri,Arunachal Pradesh,Other,642015184.3
+Kamle,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",540455.3412
+Kamle,Arunachal Pradesh,NoChange,1333294582
+Kamle,Arunachal Pradesh,Other,446478584.6
+Sivasagar,Assam,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",107294.21
+Sivasagar,Assam,MostlyCropland->ArtificialSurfaceorUrbanArea,107299.463
+Sivasagar,Assam,NoChange,1278252518
+Sivasagar,Assam,Other,710257883.9
+Charaideo,Assam,NoChange,806412792
+Charaideo,Assam,Other,547783366.5
+Dhemaji,Assam,"Barearea->Grassland,Scrub,orShrub",648368.1436
+Dhemaji,Assam,"Grassland,Scrub,orShrub->SurfaceWater",218707.4251
+Dhemaji,Assam,NoChange,2410300195
+Dhemaji,Assam,Other,832090718.7
+Dibrugarh,Assam,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",537546.8722
+Dibrugarh,Assam,NoChange,2977895636
+Dibrugarh,Assam,Other,1343507425
+Upper Subansiri,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",1299313.086
+Upper Subansiri,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,216550.8245
+Upper Subansiri,Arunachal Pradesh,NoChange,3519421185
+Upper Subansiri,Arunachal Pradesh,Other,4865362357
+West Siang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,216915.0207
+West Siang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",4171372.846
+West Siang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,883907.0376
+West Siang,Arunachal Pradesh,NoChange,1210163737
+West Siang,Arunachal Pradesh,Other,507045317
+Leparada,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->ArtificialSurfaceorUrbanArea,108230.8051
+Leparada,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",865335.4536
+Leparada,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,649004.4004
+Leparada,Arunachal Pradesh,NoChange,723165816.7
+Leparada,Arunachal Pradesh,Other,274804385.3
+Siang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",1144419.269
+Siang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,92075.75071
+Siang,Arunachal Pradesh,NoChange,2932046626
+Siang,Arunachal Pradesh,Other,1467092706
+Lower Siang,Arunachal Pradesh,NoChange,1861972075
+Lower Siang,Arunachal Pradesh,Other,463840572
+Kra Daadi,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",432459.9459
+Kra Daadi,Arunachal Pradesh,NoChange,1626323643
+Kra Daadi,Arunachal Pradesh,Other,1199292814
+Tirap,Arunachal Pradesh,MostlyCropland->MostlyNeedleleaf/EvergreenForest,3331418.559
+Tirap,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",536463.0842
+Tirap,Arunachal Pradesh,NoChange,817248154.3
+Tirap,Arunachal Pradesh,Other,566574714
+Tinsukia,Assam,"Grassland,Scrub,orShrub->ArtificialSurfaceorUrbanArea",107693.0083
+Tinsukia,Assam,"Grassland,Scrub,orShrub->SurfaceWater",105235.7482
+Tinsukia,Assam,MostlyNeedleleaf/EvergreenForest->Barearea,215794.0025
+Tinsukia,Assam,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",10656438.81
+Tinsukia,Assam,MostlyNeedleleaf/EvergreenForest->MostlyCropland,15337347.55
+Tinsukia,Assam,NoChange,3089857770
+Tinsukia,Assam,Other,1751434571
+Namsai,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",7774484.539
+Namsai,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,2162134.234
+Namsai,Arunachal Pradesh,NoChange,1314660509
+Namsai,Arunachal Pradesh,Other,421711392.4
+Changlang,Arunachal Pradesh,MostlyCropland->MostlyNeedleleaf/EvergreenForest,1938163.672
+Changlang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",2908587.749
+Changlang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,1508944.817
+Changlang,Arunachal Pradesh,NoChange,4441537320
+Changlang,Arunachal Pradesh,Other,1992816018
+Lohit,Arunachal Pradesh,"MostlyDeciduousForest->Grassland,Scrub,orShrub",216322.9247
+Lohit,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",19056048.19
+Lohit,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,3030531.075
+Lohit,Arunachal Pradesh,NoChange,2236424874
+Lohit,Arunachal Pradesh,Other,1373256249
+Lower Dibang Valley,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->Barearea,759710.2666
+Lower Dibang Valley,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",23871281.35
+Lower Dibang Valley,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,15001699.53
+Lower Dibang Valley,Arunachal Pradesh,NoChange,2568437190
+Lower Dibang Valley,Arunachal Pradesh,Other,2217357668
+Anjaw,Arunachal Pradesh,"Grassland,Scrub,orShrub->MostlyNeedleleaf/EvergreenForest",108522.3694
+Anjaw,Arunachal Pradesh,NoChange,2442963805
+Anjaw,Arunachal Pradesh,Other,5496380506
+East Siang,Arunachal Pradesh,"MostlyDeciduousForest->Grassland,Scrub,orShrub",108443.4604
+East Siang,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",50260561.67
+East Siang,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,27768817.74
+East Siang,Arunachal Pradesh,NoChange,1663090766
+East Siang,Arunachal Pradesh,Other,499832378.6
+Shi Yomi,Arunachal Pradesh,"MostlyDeciduousForest->Grassland,Scrub,orShrub",436381.2367
+Shi Yomi,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",4473443.836
+Shi Yomi,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,982157.3445
+Shi Yomi,Arunachal Pradesh,NoChange,1045019626
+Shi Yomi,Arunachal Pradesh,Other,2391433619
+Dibang Valley,Arunachal Pradesh,"MostlyNeedleleaf/EvergreenForest->Grassland,Scrub,orShrub",1745897.036
+Dibang Valley,Arunachal Pradesh,MostlyNeedleleaf/EvergreenForest->MostlyCropland,327361.5165
+Dibang Valley,Arunachal Pradesh,NoChange,4116679417
+Dibang Valley,Arunachal Pradesh,Other,8234123873
+Upper Siang,Arunachal Pradesh,NoChange,3901258338
+Upper Siang,Arunachal Pradesh,Other,4921448376

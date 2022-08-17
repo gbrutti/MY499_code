@@ -122,7 +122,7 @@ comps1 <- pca1$x
 # choosing number of PCs
 
 #1
-screeplot(pca1, type='l', main="", npcs = 9)
+screeplot(pca1, type='l', main="", npcs = 10)
 
 #2
 pca_var1 <- pca1$sdev^2

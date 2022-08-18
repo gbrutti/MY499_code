@@ -52,7 +52,7 @@ summary(mod3_w)
 mod4_w <- glm.nb(violence ~ spatial_lag + forest_recovery + urbanization + forest_contrast + urban_contrast + vprior + time + alignemnt, data = win_naga, control=glm.control(maxit=50))
 summary(mod4_w)
 
-stargazer(mod1_w, mod2_w, mod3_w, mod4_w, type = "html", out = "model_w.doc", style = "ajps", star.cutoffs = c(0.05, 0.01, 0.001), add.lines=list(c("BIC", round(BIC(mod1_w),3),round(BIC(mod2_w),3),round(BIC(mod3_w),3)), round(BIC(mod4_w),3)))
+## stargazer(mod1_w, mod2_w, mod3_w, mod4_w, type = "html", out = "model_w.doc", style = "ajps", star.cutoffs = c(0.05, 0.01, 0.001), add.lines=list(c("BIC", round(BIC(mod1_w),3),round(BIC(mod2_w),3),round(BIC(mod3_w),3)), round(BIC(mod4_w),3)))
 
 ## binomial logistic regression
 
